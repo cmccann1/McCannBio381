@@ -3,8 +3,9 @@ title: "BIOL 381 Cai McCann"
 author: "Cai McCann"
 date: "1/22/2020"
 output: 
-  html_document: 
-    theme: spacelab
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
 ---
 
 ## Homework 1
@@ -13,3 +14,5 @@ output:
 [Homework_1](Homework_1.html)
 
 [Homework 1 PDF](Typora_practice_sheet_Jan_15_2020_PDF.pdf)
+
+*Thanks, Lauren for the prettydoc theme! :)
