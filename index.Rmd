@@ -8,7 +8,8 @@ output:
 ---
 
 ## Homework 1
-#[Homework_1]("Typora practice sheet Jan 15 2020.html")
+[Homework 1](Homework_1.html)
 
 [Homework_1](Homework_1.html)
 
+[Homework 1 PDF](Typora_practice_sheet_Jan_15_2020_PDF.pdf)
