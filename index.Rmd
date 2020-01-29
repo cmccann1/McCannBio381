@@ -15,4 +15,8 @@ output:
 
 [Homework 1 PDF](Typora_practice_sheet_Jan_15_2020_PDF.pdf)
 
-*Thanks, Lauren for the prettydoc theme! :)
+## Homework "3/4"
+[Homework_4](Homework_4_01292020.html)
+
+
+*Thanks, Lauren, for the prettydoc theme! :)
